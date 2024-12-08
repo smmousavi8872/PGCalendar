@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hafhashtad</string>
+    <string name="clear_search">Clear Search Text</string>
+    <string name="search_products">Search Products</string>
+    <string name="product_list">Product List</string>
+    <string name="loading_products">Loading Products</string>
+    <string name="an_error_occurred">An error occurred</string>
+</resources>

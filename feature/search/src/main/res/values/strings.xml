@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_products">Search Products</string>
+    <string name="search">Search</string>
+    <string name="search_description">Enter your product name.</string>
+</resources>
