@@ -20,7 +20,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "SampleProject"
+rootProject.name = "PGCalendar"
 include(":app")
 include(":core:database")
 include(":core:model")

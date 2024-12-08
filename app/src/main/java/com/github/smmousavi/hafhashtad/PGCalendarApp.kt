@@ -7,7 +7,7 @@ import dagger.hilt.android.HiltAndroidApp
 import javax.inject.Inject
 
 @HiltAndroidApp
-class HafhashtadApp : Application(), ImageLoaderFactory {
+class PGCalendarApp : Application(), ImageLoaderFactory {
 
     @Inject
     lateinit var imageLoader: dagger.Lazy<ImageLoader>
